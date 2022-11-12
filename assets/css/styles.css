@@ -166,7 +166,7 @@ img {
 }
 
 /* Up animation */
-.card__social .animation{
+.card__social.animation{
 animation: up 1s ease-in-out forwards;
 }
 
